@@ -1,0 +1,24 @@
+PODS:
+  - iOSDropDown (0.3.4)
+  - SideMenu (6.1.4)
+  - SwiftyPickerPopover (5.3.0)
+
+DEPENDENCIES:
+  - iOSDropDown
+  - SideMenu
+  - SwiftyPickerPopover (= 5.3.0)
+
+SPEC REPOS:
+  trunk:
+    - iOSDropDown
+    - SideMenu
+    - SwiftyPickerPopover
+
+SPEC CHECKSUMS:
+  iOSDropDown: c10a761f9a00c3f1cc9d3bce43ae504628e2f692
+  SideMenu: 7e7f16f229c8d160830e5449308f6562821d762d
+  SwiftyPickerPopover: c5d2d3dfeab310612e8ce63356c33149f8fc9a8e
+
+PODFILE CHECKSUM: 86aa96047d02e7c4222fde6ddcea0c36ec6fe7ce
+
+COCOAPODS: 1.8.3
